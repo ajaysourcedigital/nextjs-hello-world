@@ -9,7 +9,7 @@ The app in this repo is deployed at https://next-js.onrender.com.
 
 Click the button below to deploy this app on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+ [![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=owner/repo&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 
 ## Deploy as Static Site
